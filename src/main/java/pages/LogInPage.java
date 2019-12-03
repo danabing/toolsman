@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -10,19 +10,19 @@ public class LogInPage {
 
     public  WebElement eleLogInName(){
 
-        return webDriver.findElement(By.id("name"));
+        return webDriver.findElement(By.id("userName"));
 
     }
 
     public  WebElement eleLogInPwd(){
 
-        return webDriver.findElement(By.id("pwd"));
+        return webDriver.findElement(By.id("password"));
 
     }
 
     public  WebElement eleLogInBtn(){
 
-        return webDriver.findElement(By.id("BTN"));
+        return webDriver.findElement(By.className("login_button"));
 
     }
 
