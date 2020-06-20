@@ -13,6 +13,7 @@
 <key>url</key>
 <string>http://220.180.239.103:1225/platform_zx/archiveTemplate/download/file/9470c352784440869c2a7236599c75d9</string>
 </dict>
+<!--
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
@@ -21,6 +22,7 @@
 <key>url</key>
 <string>https://enterprise.cloudpay.com.cn/app/packages/iphone-2x.png</string>
 </dict>
+-->
 </array>
 <key>metadata</key>
 <dict>
